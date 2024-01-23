@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+
+.body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#logo h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#currency-input  input{
+  
+  font-family: 'Poppins', sans-serif;
+  padding: 10px 60px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-top: 50px;
+  margin-bottom: 10px;
+ 
+}
+
+#currency-input {
+    margin-top: 100px;
+    padding-bottom: 150px;
+    padding-top: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #F0F3F7;
+    width: 700px;
+    height: 300px;
+    margin-left: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+.select {
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 50px;
+  text-align: center;
+  
+}
+
+
+.selectCurrency{
+   padding:  20px 20px;
+   border-radius: 5px;
+  border: 1px solid grey;
+   margin-top: 10px;
+}
+
+button{
+    margin-top: 50px;  
+    /* padding: 10px 60px; */
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+  padding: 14px;
+  width: 150px;
+  /* margin: 7px; */
+  color: #ffffff;
+  background-color: #36a2eb;
+  border-radius: 8px;
+  /* font-family: "proxima-nova-soft", sans-serif; */
+  font-weight: 600;
+  text-decoration: none;
+  transition: box-shadow 200ms ease-out;
+    
+
+}
